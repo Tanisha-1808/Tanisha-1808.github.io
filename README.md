@@ -2,6 +2,8 @@
 
 **AI-Based Farmer Crop Recommendation and Disease Advisory System**
 
+Repository: https://github.com/Tanisha-1808/Agri
+
 Fieldwise is a farmer-focused decision-support platform combining field details, crop suitability, plant-health screening, weather, market signals, a grounded English/Tamil assistant, and bilingual workflows.
 
 ## Problem
