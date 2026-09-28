@@ -1,0 +1,11 @@
+{
+  "version": "2026.09",
+  "source": "Curated starter profiles; replace with a validated regional training dataset before production",
+  "profiles": [
+    {"crop":"Rice","variety":"ADT 45","seasons":["Kharif","Year-round"],"ph":[5.5,7.5],"temperature":[20,35],"humidity":[60,95],"rainfall":[900,2500],"npk":[80,35,40],"districts":["Thanjavur","Trichy","Nagapattinam"],"explanation":"Strong match for warm, humid fields with dependable rainfall and balanced nitrogen."},
+    {"crop":"Groundnut","variety":"TMV 7","seasons":["Kharif","Rabi"],"ph":[6,7.5],"temperature":[24,32],"humidity":[45,75],"rainfall":[500,1000],"npk":[35,25,45],"districts":["Thanjavur","Madurai","Villupuram"],"explanation":"A water-efficient choice for well-drained soil and moderate rainfall."},
+    {"crop":"Blackgram","variety":"VBN 6","seasons":["Rabi","Zaid"],"ph":[6,7.5],"temperature":[25,35],"humidity":[40,70],"rainfall":[400,800],"npk":[25,20,25],"districts":["Thanjavur","Madurai","Trichy"],"explanation":"Fits a shorter season and helps rotate nitrogen-demanding crops."},
+    {"crop":"Maize","variety":"COH(M) 8","seasons":["Kharif","Rabi"],"ph":[5.8,7.2],"temperature":[21,32],"humidity":[50,80],"rainfall":[500,800],"npk":[100,45,45],"districts":["Salem","Erode","Villupuram"],"explanation":"Good option when nitrogen is available and the field has reliable drainage."},
+    {"crop":"Cotton","variety":"MCU 5","seasons":["Kharif"],"ph":[6,8],"temperature":[21,35],"humidity":[40,70],"rainfall":[500,900],"npk":[60,30,35],"districts":["Madurai","Salem","Villupuram"],"explanation":"Suitable for a warm Kharif cycle with moderate rainfall and neutral soil."}
+  ]
+}

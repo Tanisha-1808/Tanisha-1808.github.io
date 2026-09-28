@@ -1,0 +1,8 @@
+{
+  "source": "TNAU Agritech Portal and Government agricultural guidance; verify region-specific advice before production use",
+  "advisories": {
+    "healthy": {"name":"Healthy leaf","symptoms":["Even green colour","No spreading spots or curling"],"prevention":["Inspect both sides of leaves weekly","Keep tools and nursery material clean"],"management":["Continue balanced irrigation and nutrition","Remove badly damaged leaves from the field"],"expertWhen":"Consult an expert if spots, wilt, or rapid yellowing appears across multiple plants."},
+    "bacterial_leaf_blight": {"name":"Bacterial leaf blight","symptoms":["Water-soaked streaks along leaf edges","Yellowing that moves inward from the margin"],"prevention":["Use clean seed and avoid working in wet foliage","Maintain field drainage and balanced nitrogen"],"management":["Remove heavily affected leaves where practical","Use only locally approved, label-directed products after expert confirmation"],"expertWhen":"Contact a local agriculture officer when symptoms spread beyond one patch or reach the flag leaf."},
+    "leaf_blast": {"name":"Leaf blast","symptoms":["Spindle-shaped grey or brown lesions","Lesions may join and dry large areas of the leaf"],"prevention":["Use resistant varieties where recommended","Avoid excess nitrogen and keep spacing open"],"management":["Remove volunteer plants and crop residue where appropriate","Follow local integrated disease management guidance"],"expertWhen":"Seek expert advice before treatment if lesions appear near the neck or panicle."}
+  }
+}

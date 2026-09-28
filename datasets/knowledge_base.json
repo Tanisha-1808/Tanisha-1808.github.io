@@ -1,0 +1,10 @@
+{
+  "version": "2026.09",
+  "sources": ["Tamil Nadu Agricultural University Agritech Portal", "Soil Health Card Programme, Government of India", "IMD Agromet Advisory Service"],
+  "entries": [
+    {"keywords":["rice","water","irrigation"],"answer":"For rice, keep the field moist and avoid continuous deep flooding. Alternate wetting and drying can reduce water use where local extension guidance supports it.","tamil":"நெல்லுக்கு வயலை ஈரமாக வைத்துக் கொள்ளுங்கள்; தொடர்ந்து ஆழமாக நீர் தேங்க விட வேண்டாம். உள்ளூர் வேளாண் ஆலோசனை அனுமதித்தால், மாறி மாறி ஈரப்படுத்துதல் நீரை சேமிக்க உதவும்.","source":"Tamil Nadu Agricultural University, Water management in rice"},
+    {"keywords":["soil","ph"],"answer":"Most field crops perform well around mildly acidic to neutral soil. Test soil before applying lime or nutrients and follow the soil test recommendation.","tamil":"பெரும்பாலான பயிர்கள் மிதமான அமிலம் முதல் நடுநிலை மண் வரை நன்றாக வளரும். சுண்ணாம்பு அல்லது உரம் இடுவதற்கு முன் மண் பரிசோதனை செய்யுங்கள்.","source":"Soil Health Card Programme, Government of India"},
+    {"keywords":["disease","leaf","spot","spray"],"answer":"Isolate the affected patch, avoid handling wet foliage, and take clear photos of both leaf surfaces. Confirm disease with an agriculture expert before using any plant-protection product.","tamil":"பாதிக்கப்பட்ட பகுதியை தனிமைப்படுத்தி, ஈரமான இலைகளை கையாளாமல் இருங்கள். எந்த தாவர பாதுகாப்பு பொருளையும் பயன்படுத்தும் முன் வேளாண் நிபுணரிடம் நோயை உறுதி செய்யுங்கள்.","source":"TNAU Agritech Portal, Integrated Pest and Disease Management"},
+    {"keywords":["rain","weather","fertilizer"],"answer":"Avoid foliar sprays and fertilizer application immediately before heavy rain. Check the local forecast and wait for a dry window when the product label permits.","tamil":"கனமழைக்கு முன் இலைத் தெளிப்பு மற்றும் உரமிடுதலை தவிர்க்கவும். உள்ளூர் வானிலை முன்னறிவிப்பைப் பார்த்து, லேபிள் அனுமதிக்கும் உலர் நேரத்தைத் தேர்வு செய்யுங்கள்.","source":"IMD Agromet Advisory Service"}
+  ]
+}
