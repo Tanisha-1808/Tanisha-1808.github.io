@@ -4,15 +4,15 @@
 
 Repository: https://github.com/Tanisha-1808/Agri
 
-Live web preview: https://tanisha-1808.github.io/Agri/
+Live web preview: https://tanisha-1808.github.io/
 
 Personal Pages site: https://tanisha-1808.github.io/
 
 ## View the live project
 
-[Open Fieldwise in your browser](https://tanisha-1808.github.io/Agri/)
+[Open Fieldwise in your browser](https://tanisha-1808.github.io/)
 
-[Open the How It Works section](https://tanisha-1808.github.io/Agri/#how-it-works)
+[Open the How It Works section](https://tanisha-1808.github.io/#how-it-works)
 
 Fieldwise is a farmer-focused decision-support platform combining field details, crop suitability, plant-health screening, weather, market signals, a grounded English/Tamil assistant, and bilingual workflows.
 
